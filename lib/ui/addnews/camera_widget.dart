@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:image_picker/image_picker.dart';
 
-import '../../client/list_client.dart';
 import '../../utils/colors.dart';
+import '../client/list_client.dart';
 
 class CameraWidget extends StatefulWidget{
   @override
